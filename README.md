@@ -1,6 +1,6 @@
 # Lossless Text File Compressor
 
-> Compress and decompress text files like a boss — no data lost, no rocket science needed.
+> Compress and decompress text files like a boss, no data lost, no rocket science needed.
 
 ---
 
